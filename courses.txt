@@ -1,2 +1,6 @@
 1.git-masterclass
+<<<<<<< HEAD
 dharshan
+=======
+2.thorfinn
+>>>>>>> 4657bfa78e42a94c021b6b55efcef0fec986ead9
